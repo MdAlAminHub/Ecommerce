@@ -1,6 +1,6 @@
 # http://127.0.0.1:8000/api/products
 #remote repository 
-
+#its the main repo 
 from django.db import models
 from django.utils.text import slugify
 
